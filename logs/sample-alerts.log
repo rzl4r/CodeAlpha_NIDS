@@ -1,0 +1,4 @@
+06/25/2026-07:47:18.075575  [**] [1:2100498:7] GPL ATTACK_RESPONSE id check returned root [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 18.173.23.87:80 -> 192.168.37.129:33018
+06/25/2026-07:47:25.781480  [**] [1:2100498:7] GPL ATTACK_RESPONSE id check returned root [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 18.173.23.112:80 -> 192.168.37.129:53792
+06/25/2026-07:47:32.379192  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 192.168.37.129:68 -> 192.168.37.254:67
+06/25/2026-08:02:42.706629  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 192.168.37.129:68 -> 192.168.37.254:67
